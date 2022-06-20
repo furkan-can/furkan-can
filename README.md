@@ -17,7 +17,7 @@
 <img align="center"  src="https://img.icons8.com/fluency/48/undefined/instagram-new.png" /> 
 </a>
 <a href= "https://www.linkedin.com/in/furkancant/">
-<img align="center" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" /> 
+<img align="center" src="https://img.icons8.com/color/48/undefined/linkedin-circled--v1.png" /> 
 </a>
 </p>
 
