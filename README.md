@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, It-s Furkan :wave: </h1>
+<h1 align="center"> Hi there, It's Furkan :wave: </h1>
 
 <h3 align="center"> I am a Computer Engineering student at Akdeniz University :computer: </h3>
 
