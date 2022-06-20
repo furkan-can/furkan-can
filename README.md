@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=furkan-can&label=stalkers&color=grey" />
+<img src="https://komarev.com/ghpvc/?username=furkan-can&label=Profile Views&color=grey" />
 </p>
 
 <h3 align="center"> I am interested in programming languages :point_down:  </h3>
