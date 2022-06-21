@@ -25,13 +25,16 @@
 <img src="https://komarev.com/ghpvc/?username=furkan-can&label=Profile Views&color=grey" />
 </p>
 
+<!--
+
 <h3 align="center"> I am interested in programming languages :point_down:  </h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-can&layout=compact" />
 </p>
 
-<!--
+-----------------------------------------------------------------------------------------------------------------------
+
 **furkan-can/furkan-can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
