@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, It's Furkan :wave: </h1>
 
-<h3 align="center"> I am a Computer Engineering student at Akdeniz University :computer: </h3>
+<h3 align="center"> I am a Computer Engineer :computer: </h3>
 
-<h5 align="center"> I'm trying to improve myself and be a good software developer. I am constantly following new resources and courses online. When there is an internet outage, I play the dinosaur game you see below :smile: </h5>
+<h5 align="center"> I am passionate and enthusiastic about software development. I am particularly interested in web development. In this GitHub profile, I aim to improve my skills and learn new things by sharing various projects and code samples. I am also happy to contribute to open-source projects. </h5>
 <p align="center"> 
   <img src="https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width="500" height="150" />
 </p>
